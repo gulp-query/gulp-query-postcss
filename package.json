@@ -23,7 +23,6 @@
     "gulp-sourcemaps": "^2.6.1"
   },
   "devDependencies": {
-    "postcss-scss": "^1.0.2",
     "precss": "^2.0.0"
   }
 }
