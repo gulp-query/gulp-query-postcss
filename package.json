@@ -21,8 +21,5 @@
     "gulp-postcss": "^7.0.0",
     "gulp-query": "^1.0.0",
     "gulp-sourcemaps": "^2.6.1"
-  },
-  "devDependencies": {
-    "precss": "^2.0.0"
   }
 }
