@@ -15,7 +15,7 @@ Paste the code into your `gulpfile.js` and configure it
 let build = require('gulp-query')
   , postcss = require('gulp-query-postcss')
 ;
-cocktail(function (query) {
+build((query) => {
     query.plugins([postcss])
       .postcss(['1.css','2.css'],'css/12.css',{
         name: 'onetwo',
